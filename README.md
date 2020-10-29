@@ -10,7 +10,7 @@
 
 
 ## コンテンツ
-* [K-meansクラスタリング](https://colab.research.google.com/github/trycycle/data-analysis-lecture-2020/blob/master/notebook/.ipynb?hl=ja)
+* [K-meansクラスタリング](https://colab.research.google.com/github/trycycle/data-analysis-lecture-2020/blob/master/notebook/k-means.ipynb?hl=ja)
 * [階層的クラスタリング](https://colab.research.google.com/github/trycycle/data-analysis-lecture-2020/blob/master/notebook/hierarchical-clustering.ipynb?hl=ja)
 * [決定木から始める機械学習]()
 * [時系列分析]()
