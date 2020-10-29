@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # Misc
+.DS_Store
 local/
-notebook/
 data/
