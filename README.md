@@ -11,6 +11,6 @@
 
 ## コンテンツ
 * [K-meansクラスタリング](https://nbviewer.jupyter.org/github/trycycle/data-analysis-lecture-2020/blob/master/notebook/k-means.ipynb)
-* [階層的クラスタリング]()
+* [階層的クラスタリング](https://nbviewer.jupyter.org/github/trycycle/data-analysis-lecture-2020/blob/master/notebook/hierarchical-clustering.ipynb)
 * [決定木から始める機械学習]()
 * [時系列分析]()
